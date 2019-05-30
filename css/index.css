@@ -1,0 +1,118 @@
+.page1{
+     background-image: url(image/8.png)
+}
+.page1 img:nth-of-type(1){
+    position: absolute;
+    left: 0rem;
+    bottom: 0;
+    width: 3.75rem;
+    height: 6.67rem;
+}
+.page1 img:nth-of-type(2){
+    position: absolute;
+    left: 0.1rem;
+    bottom: 0.1rem;
+    width: 3.6rem;
+    height: 6.5rem;
+}
+.page1 img:nth-of-type(3){
+    position: absolute;
+    left: 0.3rem;
+    bottom: 3.3rem;
+    width: 3.0rem;
+}
+.page1 img:nth-of-type(4){
+    position: absolute;
+    left: 0.3rem;
+    bottom: 3.8rem;
+    width: 3.0rem;
+}
+
+.page1 img:nth-of-type(5){
+    position: absolute;
+    left: 0.3rem;
+    bottom: 2.0rem;
+    width: 3.0rem;
+}
+.page2{background-image: url(image/8.png)}
+.page2 img:nth-of-type(1){
+
+    position: absolute;
+    left: 0rem;
+    bottom: 0rem;
+    width: 3.75rem;
+    height: 6.67rem;
+}
+
+
+.page2 img:nth-of-type(2){
+    position: absolute;
+    left: 0rem;
+    bottom: 0rem;
+    width: 3.65rem;
+    height: 6.5rem;
+}
+.page2 img:nth-of-type(3){
+    position: absolute;
+    left: 0.2rem;
+    top: 1rem;
+    width: 3.2rem;
+    height: 1rem;
+}
+.page2 img:nth-of-type(4){
+    position: absolute;
+    left: 0.4rem;
+    top: 2.5rem;
+    width: 2.8rem;
+    height: 1.7rem;
+}
+.page2 p{
+    left: 0.4rem;
+    bottom: 0.5rem;
+    font-size: 0.2rem;
+    font-family: 黑体；
+}
+.page3{background-image: url(image/8.png)}
+.page3 img:nth-of-type(1){
+
+    position: absolute;
+    left: 0rem;
+    bottom: 0rem;
+    width: 3.75rem;
+    height: 6.67rem;
+}
+.page3 img:nth-of-type(2){
+    position: absolute;
+    left: 0.15rem;
+    top: 0.5rem;
+    width: 3.65rem;
+    height: 1.8rem;
+}
+.page3 img:nth-of-type(3){
+    position: absolute;
+    left: 0rem;
+    top: 3.0rem;
+    width: 1.8rem;
+    height: 1.5rem;
+}
+.page3 img:nth-of-type(4){
+    position: absolute;
+    right: 0rem;
+    top: 3.0rem;
+    width: 1.8rem;
+    height: 1.5rem;
+}
+.page3 img:nth-of-type(5){
+    position: absolute;
+    left: 0rem;
+    top: 5.0rem;
+    width: 1.8rem;
+    height: 1.5rem;
+}
+.page3 img:nth-of-type(6){
+    position: absolute;
+    right: 0rem;
+    top: 5.0rem;
+    width: 1.8rem;
+    height: 1.5rem;
+}
